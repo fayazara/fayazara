@@ -1,9 +1,9 @@
 <h1 align="left">Hey, I am Fayaz</h1>
 <h3 align="left">Open sourcing @chatwoot</h3>
 
-- 🔭 &nbsp; I’m currently working on [Chatwoot](https://chatwoot.com/)
+- 🚀 &nbsp; I’m currently working on [Chatwoot](https://chatwoot.com/)
 
-- 🔭 &nbsp; Current side project [Fluenticons](https://fluenticons.co/)
+- ⚙️ &nbsp; Current side project [Fluenticons](https://fluenticons.co/)
 
 - 🌱 &nbsp; Learning **Javascript, Vue, React**
 
