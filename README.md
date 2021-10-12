@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chatwoot](https://chatwoot.com/)
 
-- - 🔭 Current side project [Fluenticons](https://fluenticons.co/)
+- 🔭 Current side project [Fluenticons](https://fluenticons.co/)
 
 - 🌱 Learning **Javascript, Vue, React**
 
