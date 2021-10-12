@@ -1,15 +1,17 @@
 <h1 align="left">Hey, I am Fayaz</h1>
 <h3 align="left">Open sourcing @chatwoot</h3>
 
-- 🔭 I’m currently working on [Fluenticons](https://fluenticons.co/)
+- 🔭 I’m currently working on [Chatwoot](https://chatwoot.com/)
 
-- 🌱 I’m currently learning **Javascript, Vue, React, Next**
+- - 🔭 Current side project [Fluenticons](https://fluenticons.co/)
+
+- 🌱 Learning **Javascript, Vue, React**
 
 - 👨‍💻 All of my projects are available at [https://fayazz.co](https://fayazz.co)
 
 - 📝 I regularly write articles on [https://dev.to/fayaz](https://dev.to/fayaz)
 
-- 💬 Ask me about **Vue, Nuxt, Javascript**
+- 💬 Ask me about **Vue, Nuxt, Javascript, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
