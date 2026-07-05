@@ -31,3 +31,12 @@ Working on something new every week!
 28. [WhereamI](https://whereami.fayaz.workers.dev/) - Simple api to get user geolocation with Cloudflare
 29. [Animated Lucide Icons for vue](https://animated-lucide-vue.pages.dev/) - Lucide Icons animated with Motion-v
 30. [Nuxtra](https://nuxtra.pages.dev/) - A beautiful landing page template made for Nuxt.
+
+<div>
+  <a href="https://commit-history.com/fayazara">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/fayazara?theme=dark" />
+      <img alt="fayazara's commit history" src="https://commit-history.com/embed/fayazara" />
+    </picture>
+  </a>
+</div>
