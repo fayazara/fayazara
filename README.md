@@ -2,6 +2,7 @@ Working on something new every week!
 
 
 1. [Screendrop](https://github.com/fayazara/screendrop) - Opensource Cleanshot alternative.
+2. [PDFStudio](https://pdfstudio-demo.fayaz.workers.dev/) - ILovePDF but on the client side - uses a wasm build of qpdf.
 2. [Codereel](https://codereel.fayazahmed.com/) - Create animated code snippet explainers right in the browser.
 3. [Kaze](https://github.com/fayazara/Kaze) - Open source mac app for voice dictation - Local and Privacy friendly.
 4. [WebhookFlare](https://webhookflare.fayaz.workers.dev/) - A simple webhook testing tool built using Cloudflare Durable Objects.
