@@ -1,12 +1,15 @@
 Working on something new every week!
 
 
-1. [Screendrop](https://github.com/fayazara/screendrop) - Opensource Cleanshot alternative.
-2. [Robot Heads](https://github.com/fayazara/robot-heads) - Little robots heads for your agents
-3. [Texture Studio](https://texture.fayaz.workers.dev/) - On Device Textures for images.
-4. [Hand Drawn Lucide Icons](https://hand-drawn-lucide-icons.fayaz.workers.dev/) - I converted lucide to tldraws hand drawn vibe
-5. [Flare Analytics](https://github.com/fayazara/analytics) - Light weight self hosted analytics built with Cloudflare stack.
-6. [PDFStudio](https://pdfstudio-demo.fayaz.workers.dev/) - ILovePDF but on the client side - uses a wasm build of qpdf.
+1. [Coworkers](https://github.com/fayazara/coworkers) - AI Team mates that run on cloudflare.
+2. [Screendrop](https://github.com/fayazara/screendrop) - Opensource Cleanshot alternative.
+3. [Lotion](https://github.com/fayazara/lotion) - A notion like notes app that works locally.
+4. [Bucket List](https://github.com/fayazara/BucketList) - Cloudflare R2 client for mac.
+5. [Robot Heads](https://github.com/fayazara/robot-heads) - Little robots heads for your agents
+6. [Texture Studio](https://texture.fayaz.workers.dev/) - On Device Textures for images.
+7. [Hand Drawn Lucide Icons](https://hand-drawn-lucide-icons.fayaz.workers.dev/) - I converted lucide to tldraws hand drawn vibe
+8. [Flare Analytics](https://github.com/fayazara/analytics) - Light weight self hosted analytics built with Cloudflare stack.
+9. [PDFStudio](https://pdfstudio-demo.fayaz.workers.dev/) - ILovePDF but on the client side - uses a wasm build of qpdf.
 2. [Codereel](https://codereel.fayazahmed.com/) - Create animated code snippet explainers right in the browser.
 3. [Kaze](https://github.com/fayazara/Kaze) - Open source mac app for voice dictation - Local and Privacy friendly.
 4. [WebhookFlare](https://webhookflare.fayaz.workers.dev/) - A simple webhook testing tool built using Cloudflare Durable Objects.
